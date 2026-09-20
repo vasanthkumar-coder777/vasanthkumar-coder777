@@ -1,4 +1,7 @@
-<img width="148" height="148" alt="download" src="https://github.com/user-attachments/assets/f82b7970https://in.pinterest.com/pin/281543724138982/-5080-4866-aa14-86e765217d64" />
+<img width="148" height="148" alt="download"
+## 🎥 Project Demo
+
+[![Project Demo](images/thumbnail.png)](https://pin.it/6WsCr5m3d)
 ## Hi there 👋
 
 <!--
